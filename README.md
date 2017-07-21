@@ -1,5 +1,5 @@
 # NeuralNetworkModel
-Customer Churn using Neural Network
+#Customer Churn using Neural Network
 Company Information:
 A telecom company called ‘Firm X’ is a leading telecommunications provider in the country. The company earns most of its revenue by providing internet services. Based on the past and current customer information, the company has maintained a database containing personal/demographic information, the services availed by a customer and the expense information related to each customer.
  
